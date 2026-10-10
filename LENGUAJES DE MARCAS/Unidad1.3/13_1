@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+    <html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>tulipanes</title>
+    </head>
+    <body>
+        <h1>Campos De Tulipanes</h1>
+        <div> 
+            <img src = "tuli.jpg.jpg" alt="imagen de los campos de tulipanes en holanda" width = "400px"> <hr>
+            
+            <p>En esta guía os contamos cómo visitar los campos de tulipanes de Holanda. ¿Cuántos campos de tulipanes hay en los Países Bajos 
+                y cuáles son los más bonitos? ¿Cómo llegar a ellos? ¿Cuál es el precio de las entradas y cuál es la mejor época? ¿Es mejor visitar los
+                 campos de tulipanes por libre o con excursión? Intentaremos responder estas y muchas otras dudas para que podáis visitar los campos de tulipanes sin perderos nada. </p>
+        </div>
+        
+    </body>
