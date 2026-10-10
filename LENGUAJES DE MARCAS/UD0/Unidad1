@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta nombre= "descripcion" contenido="en esta pagina encontraremos un poco de informaio sobre por que paula y por que decidio estudiar este FP.>"
+<meta nombre="keywords" contenido="lenguaje,programacion,entidades,datos.>"
+<title>Paula - Mi Primera Pagina</title>
+</head>
+
+<body>
+ <h1>Paula Andrea Gonzalez Garica</h1>
+
+<p><pre>decidi escoger este ciclo por que me gusta el mundo infomratico,<br>
+    escogi este centro por la cercania<br>
+    y estoy dispuesta aprender <br></pre></p>
+</body>
+</html>
