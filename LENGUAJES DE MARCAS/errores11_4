@@ -1,0 +1,13 @@
+<errores>
+  
+<errores><titulo>Ejercicio 11_4</titulo>
+
+<p>
+en la linea 1 encontramos que el error esta en la escritura de "HTML" y esta escrito como htm.<br> 
+en la linea 2 el error es similar esta mal escrito el atributo como lan y la forma correcta seria LANG aparte de esto el valor no esta dentro de las comillas como deberia "ES",</p>
+en la linea 4 la etiqueta esta abierta pero no cerrada por lo que el error es que faltaria la etiqueta de cierre.<br>
+en la linea 7 la etiqueta h1 no esta cerrada lo que nos muestra es que tanto la etiqueta del principio como la final estan abiertas por lo que a la etiqueta de final le hace falta /.<br>
+en la linea 8 nos muuestan las etiquetas invertidas por lo que el error esta en que la etiqueta /b deberia estar antes que la etiqueta p para cerrar el parrafo.<br>
+el  error de la linea 9 consiste en que la etoiqueta p no esta cerrada.<br>
+en la linea 11 y 12 el error es que las etiquetas no estan cerradas.
+</p>
