@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>mi paginas enlazadas</title>
+</head>
+<body>
+    <h1>Bienvenidos</h1>
+    <p>te damos la bienvenida a esta pagina donde descibriras un poco sobre paula</p>
+    <a href="http://127.0.0.1:5500/index.html/sobremi.html"> sobre mi</a>
+    
+</body>
+</html>
